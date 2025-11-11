@@ -1,7 +1,6 @@
 ## Profile Card
 
-<img width="330" height="538" alt="Image" src="https://github.com/user-attachments/assets/f933e685-385b-425c-b6f7-67cbf07a37cc" />
-
+<img width="562" height="631" alt="Image" src="https://github.com/user-attachments/assets/486354f9-2ad4-4cf4-ab2f-063664359055" />
 
 ### **🎯 Task 1: Profile Card with Stats**
 
