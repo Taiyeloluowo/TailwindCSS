@@ -1,3 +1,8 @@
+## Profile Card
+
+https://github.com/user-attachments/assets/f933e685-385b-425c-b6f7-67cbf07a37cc
+
+
 ### **🎯 Task 1: Profile Card with Stats**
 
 Create a user profile card with:
