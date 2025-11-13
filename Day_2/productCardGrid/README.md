@@ -1,5 +1,5 @@
 ## Responsive Product Card Grid
-
+<img width="1083" height="549" alt="Image" src="https://github.com/user-attachments/assets/7300033b-0257-44a4-9eda-fc3b62ca0e47" />
 
 ### **🎯 Task 1: Responsive Product Card Grid**
 
