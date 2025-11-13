@@ -1,5 +1,5 @@
 ##Blog Post LayOut
-
+<img width="1205" height="916" alt="Image" src="https://github.com/user-attachments/assets/61de5dbf-8ae4-4873-81be-912e28d7c9c1" />
 
 ### **🎯 Task 3: Blog Post Layout**
 
