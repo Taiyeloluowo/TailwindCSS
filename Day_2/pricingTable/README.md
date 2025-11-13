@@ -1,5 +1,5 @@
 ## Pricing Table
-
+<img width="1020" height="533" alt="Image" src="https://github.com/user-attachments/assets/96e58bf8-c855-4897-a5b4-9f4681646b17" />
 
 ### **🎯 Task 4: Pricing Table**
 
