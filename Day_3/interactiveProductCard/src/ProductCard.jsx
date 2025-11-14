@@ -21,8 +21,8 @@ export default function ProductCard() {
 
         {/* Add to Cart Button */}
         <button
-          className="mt-4 bg-green-700 text-white w-32 h-10 rounded-lg font-medium
-                     transition-all duration-300 hover:bg-blue-800 active:scale-95"
+          className="mt-4 bg-green-600 text-white w-32 h-10 rounded-lg font-medium
+                     transition-all duration-300 hover:bg-green-800 active:scale-95"
         >
           Add to Cart
         </button>
